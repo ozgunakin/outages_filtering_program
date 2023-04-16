@@ -1,5 +1,5 @@
 # Outages Filtering Program
-A small program to filter and enhance outages of sites.
+A small program that filters outages of indicated sites and posts an enhanced versions of these outages with device info to the system.
 
 ## File Strucuture:
 - main.py  
