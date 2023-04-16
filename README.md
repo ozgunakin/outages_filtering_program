@@ -1,5 +1,5 @@
 # Outages Filtering Program
-A small program to filter outages from indicated API endpoint.
+A small program to filter and enhance outages of sites.
 
 ## File Strucuture:
 - main.py  
